@@ -1,0 +1,41 @@
+<channels>
+
+  <channel time_error="-1">True Drama</channel>
+<!--  <channel time_error="-1">Motors TV</channel> -->
+  <channel time_error="-1">NHK World</channel>
+  <channel time_error="-1">True Movies 2</channel>  
+  <channel time_error="-1">BOXnation</channel>
+  <channel time_error="-1">SKY Sports 5</channel>
+  <channel time_error="-16">ASTRO SuperSport</channel>
+  <channel time_error="-16">ASTRO SuperSport 2</channel>
+  <channel time_error="-16">ASTRO SuperSport 3</channel>
+  <channel time_error="-12">RT Documentary</channel>
+<!--  <channel time_error="-10">ABC News 24</channel>
+  <channel time_error="-5.5">Star Sports 1</channel>
+  <channel time_error="-5.5">Star Sports 2</channel>  -->
+  <channel time_error="6">Az Mundo</channel>
+<!--  <channel time_error="6">Canal De Las Estrellas</channel>
+  <channel time_error="6">Gala TV</channel> -->
+  <channel time_error="6">RCN Novelas</channel>
+  <channel time_error="6">TeleCentro</channel>
+  <channel time_error="6">Planeta Futbol</channel>
+  <channel time_error="6">Planeta Futbol English Soccer</channel>
+  <channel time_error="6">Multimedios Plus</channel>
+  <channel time_error="4">Paramount Channel Latinoamerica</channel>
+  <channel time_error="6">Sundance Channel Latinoamerica</channel>
+<!--  <channel time_error="3">Cinemax Latinoamerica</channel>  -->
+  <channel time_error="5">AMC</channel>
+  <channel time_error="5">H2 Latinoamerica</channel>
+  <channel time_error="5">TNT Series Latinoamerica</channel>
+  <channel time_error="5">Fox Comedy</channel>
+<!--  <channel time_error="5">Mexico 1</channel>
+  <channel time_error="5">Mexico 2</channel>
+  <channel time_error="5">Mexico 3</channel>
+  <channel time_error="5">Mexico 4</channel>
+  <channel time_error="5">Mexico 6</channel>
+  <channel time_error="5">Mexico 7</channel>
+  <channel time_error="5">Mexico 8</channel>
+  <channel time_error="5">Mexico 9</channel>  
+  <channel time_error="5">Mexico 10</channel>  -->
+
+</channels>

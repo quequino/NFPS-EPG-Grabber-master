@@ -1,0 +1,650 @@
+ABC New York
+CBS New York
+NBC New York
+FOX New York
+ABC Miami
+NBC Miami
+FOX Miami
+News 12 Long Island
+News 12 Brooklyn
+News 12 Bronx
+News 12 Connecticut
+News 12 Hudson Valley
+News 12 New Jersey
+News 12 Westchester
+ITV
+ITV 2
+ITV 3
+ITV 4
+TG 4
+Channel 4
+Channel 5
+Sky Living
+Watch
+Gold
+Dave
+Sky One
+Sky Atlantic
+E4
+More 4
+Challenge
+Sky Arts 2
+Pick
+5 Star
+RTE One
+RTE Two
+BBC One
+BBC Two
+5 USA
+USA Network East
+Comedy Central East
+Lifetime East
+ITV Encore
+Food Network East
+DIY Network USA
+Good Food
+E!
+TRUE Entertainment
+TRUE Drama
+Drama
+A&E East
+History
+H2 USA
+TLC (UK)
+Shed
+Really
+Oxygen
+WE TV
+AMC East
+TCM US
+IFC East
+FOX (UK)
+BBC America
+FX East
+TNT Drama
+TBS East
+ESPN US
+ESPNU
+ESPNews US
+Sky Sports News
+ESPN 2 US
+Fox Sports 1
+Fox Sports 2
+MLB Network
+NHL Network USA
+NFL Network
+NBA TV
+UFC Network
+CBS Sports Network
+Nickelodeon East
+CBBC
+Disney Channel East
+Cbeebies
+Baby TV
+Discovery Channel USA
+National Geographic Ch
+Discovery Turbo
+Quest
+Investigation Discovery
+Science Channel
+RT Documentary
+Eden
+Yesterday
+CNN US
+CNN
+Bloomberg TV UK
+Bloomberg TV US
+Al Jazeera
+Fox News Channel
+Euronews
+SKY News
+CNBC US
+MSNBC
+RT International
+BBC World News
+BBC News
+France 24
+The Weather Channel
+ABC News
+NHK World
+Arirang TV
+Deutsche Welle
+ABC News 24
+CCTV News
+Tru TV East
+Ovation
+Crime + Investigation Network USA
+WGN America
+FXX East
+CBS Action
+CBS Drama
+CBS Reality
+Music Videos 1
+Music Videos 2
+Music Videos 3
+Music Videos 4
+Music Videos 5
+Music Videos 6
+Music Videos 7
+Music Videos 8
+Music Videos 9
+Music Videos 10
+Music Videos 11
+Music Videos 12
+Music Videos 13
+Music Videos 14
+Music Videos 15
+Music Videos 16
+Music Videos 17
+Music Videos 18
+Music Videos 19
+Music Videos 20
+Music Videos 21
+Music Videos 22
+Music Videos 23
+Music Videos 24
+Music Videos 25
+Music Videos 26
+Music Videos 27
+Music Videos 28
+Music Videos 29
+Music Videos 30
+HBO East
+HBO 2 East
+HBO Signature East
+HBO West
+HBO 2 West
+HBO Comedy East
+HBO Zone
+Cinemax East
+Cinemax West
+ActionMax East
+ThrillerMax East
+Showtime East
+Showtime West
+Showtime 2 East
+Showtime Showcase Ea
+Showtime Extreme Ea
+Showtime Beyond East
+Showtime Next
+The Movie Channel Ea
+Movie Channel Xtra Ea
+Encore East
+Starz East
+Starz West
+Starz Edge East
+Starz Cinema East
+Starz Comedy East
+Starz In Black East
+Starz Kids & Family Ea
+SKY Premiere
+SKY Disney
+SKY Family
+SKY Action & Adven
+SKY Comedy
+SKY Crime & Thriller
+SKY Movies Drama
+SKY Scifi & Horror
+SKY Select
+TRUE Movies 1
+TRUE Movies 2
+Movies 24
+Film 4
+Palladia
+Hallmark Movie Chan
+Sony Movie Channel
+Golf Channel
+Setanta Sports
+At The Races
+Racing UK
+Eurosport 1
+Eurosport 2
+MUTV
+MSG
+BOXnation
+SKY Sports 1
+SKY Sports 2
+SKY Sports 3
+SKY Sports 4
+SKY Sports 5
+SKY Sports F1
+BT Sports 1
+BT Sports 2
+Sport 1
+Sport 2
+Sport 3
+Sport 4
+Sport 5
+Sport 6
+Sport 7
+Sport 8
+Sport 9
+Sport 10
+Sport 11
+Sport 12
+Sport 13
+Sport 14
+Sport 15
+Sport 16
+Sport 17
+Sport 18
+Sport 19
+Sport 20
+Sport 21
+Sport 22
+Sport 23
+Sport 24
+Sport 25
+Sport 26
+Sport 27
+Sport 28
+Sport 29
+Sport 30
+ASTRO SuperSport 
+ASTRO SuperSport 2
+ASTRO SuperSport 3
+Ultimate Events & Sport
+Adult 1
+Adult 2
+Adult 3
+Adult 4
+Adult 5
+Adult 6
+Adult 7
+Adult 8
+Adult 9
+Adult 10
+Adult 11
+Adult 12
+Adult 13
+Adult 14
+Adult 15
+Adult 16
+Adult 17
+Adult 18
+Adult 19
+Adult 20
+Adult 21
+Adult 22
+Adult 23
+Adult 24
+Venus
+Sextreme
+Manhandle XXX
+Secrets
+Playboy TV Latin America
+Playboy TV
+Real
+Juicy
+Hustler TV USA
+Xtsy XXX
+Italy 1
+Italy 2
+Italy 3
+Italy 4
+Italy 5
+Italy 6
+Italy 7
+Italy 8
+Italy 9
+Italy 10
+Russia 1
+Russia 2
+Russia 3
+Russia 4
+Russia 5
+Russia 6
+Russia 7
+Russia 8
+Russia 9
+Russia 10
+Arabic 1
+Arabic 2
+Arabic 3
+Arabic 4
+Arabic 5
+Arabic 6
+Arabic 7
+Arabic 8
+Arabic 9
+Arabic 10
+India 1
+India 2
+India 3
+India 4
+India 5
+India 6
+India 7
+India 8
+China 1
+China 2
+China 3
+China 4
+China 5
+China 6
+China 7
+China 8
+China 9
+China 10
+France 1
+France 2
+France 3
+France 4
+France 5
+France 6
+France 7
+France 8
+France 9
+France 10
+Canada 1
+Canada 2
+Canada 3
+Canada 4
+Canada 5
+Canada 6
+Canada 7
+Canada 8
+Canada 9
+Canada 10
+Germany 1
+Germany 2
+Germany 3
+Germany 4
+Germany 5
+Germany 6
+Germany 7
+Germany 8
+Germany 9
+Germany 10
+Romania 1
+Romania 2
+Romania 3
+Romania 4
+Romania 5
+Romania 6
+Romania 7
+Romania 8
+Romania 9
+Austria 1
+Pakistan 1
+Pakistan 2
+Pakistan 3
+Greece 1
+Greece 2
+Greece 3
+Greece 4
+Greece 5
+Turkey 1
+Turkey 2
+Turkey 3
+Turkey 4
+Turkey 5
+Turkey 6
+Turkey 7
+Turkey 8
+Turkey 9
+Turkey 10
+Israel 1
+Israel 2
+Israel 3
+Israel 4
+Ireland 1
+Ireland 2
+Denmark 1
+Denmark 2
+Hungary 1
+Hungary 2
+Bulgaria 1
+Brazil 1
+Brazil 2
+Brazil 3
+Brazil 4
+Brazil 5
+Brazil 6
+Brazil 7
+Brazil 8
+Brazil 9
+Brazil 10
+Portugal 1
+Espa–a 1
+Espa–a 2
+Espa–a 3
+Espa–a 4
+Espa–a 5
+Espa–a 6
+Espa–a 7
+Espa–a 8
+Espa–a 9
+Espa–a 10
+Espa–a 11
+Espa–a 12
+Espa–a 13
+Espa–a 14
+Espa–a 15
+Guatemala 1
+Guatemala 2
+Guatemala 3
+Guatemala 4
+Nicaragua 1
+Nicaragua 2
+Nicaragua 3
+Nicaragua 4
+Nicaragua 5
+Costa Rica 1
+Costa Rica 2
+Costa Rica 3
+Costa Rica 4
+Costa Rica 5
+Costa Rica 6
+Costa Rica 7
+Costa Rica 8
+Costa Rica 9
+Costa Rica 10
+Mexico 1
+Mexico 2
+Mexico 3
+Mexico 4
+Mexico 5
+Mexico 6
+Mexico 7
+Mexico 8
+Mexico 9
+Mexico 10
+Haiti 1
+El Salvador 1
+El Salvador 2
+Honduras 1
+Honduras 2
+Honduras 3
+Honduras 4
+Honduras 5
+Colombia 1
+Colombia 2
+Colombia 3
+Colombia 4
+Colombia 5
+Colombia 6
+Colombia 7
+Colombia 8
+Colombia 9
+Colombia 10
+Venezuela 1
+Venezuela 2
+Venezuela 4
+Venezuela 5
+Venezuela 6
+Venezuela 7
+Venezuela 8
+Venezuela 9
+Venezuela 10
+Chile 1
+Chile 2
+Chile 3
+Chile 4
+Chile 5
+Chile 6
+Chile 7
+Argentina 1
+Argentina 2
+Argentina 3
+Argentina 4
+Argentina 5
+Peru 1
+Peru 2
+Peru 3
+Peru 4
+Peru 5
+Peru 6
+Dominican Republic 1
+Dominican Republic 2
+Dominican Republic 3
+Dominican Republic 4
+Dominican Republic 5
+Dominican Republic 6
+Dominican Republic 7
+Dominican Republic 8
+Dominican Republic 9
+Dominican Republic 10
+Ecuador 1
+Ecuador 2
+Ecuador 3
+Panama 1
+Panama 2
+Panama 3
+Panama 4
+Curacao 1
+Bonaire 1
+Aruba 1
+Azteca
+Azteca Noticias
+Univision
+UniMas
+Antena 3
+Galicia TV
+TVE Internacional America
+Gala TV
+Pasiones
+Telemundo
+Telemundo Internacional
+RCN Novelas
+Tlnovelas America
+TeleCentro
+Caracol Internacional
+DW Latinoamerica
+TV Globo Internacional
+TV 5 Monde Amérique latine
+Discovery en Español
+Discovery Theater
+Discovery Home & Health Latinoamerica
+H2 Latinoamerica
+History en Español
+National Geographic Latinoamerica
+Nat Geo Wild Latino America
+Animal Planet Latinoamerica
+ESPN Latinoamerica
+ESPN 2 Latinoamerica
+ESPN 3 Latinoamerica
+Fox Sports Latinoamerica
+Fox Sports 2 Latinoamerica
+Fox Sports 3 Latinoamerica
+BeinSports en Español
+UFC Network Latinoamerica
+F1 Latinoamerica
+Planeta Futbol
+Univision TDN
+TDN Mexico
+Golf Channel Latinoamerica
+Disney Channel Norte
+Disney XD Norte
+Disney Junior Norte
+Nickelodeon Latinoamerica
+Nick Jr Latinoamerica
+Discovery Kids America Latina
+Cartoon Network Latin America
+Boomerang Latin America
+Tooncast
+BabyFirst TV Latinoamerica
+Baby TV Latinoamerica
+CBeebies Latinoamerica
+Canal Sony
+BBC Entertainment Latinoamerica
+Unicable (?)
+Warner Channel Latinoamerica
+E! Latinoamerica
+FX Latino
+Universal Channel America Latina
+Fox Latinoamerica
+Syfy Latinoamerica
+A&E Latinoamerica
+Investigation Discovery Latinoamerica
+TLC Latinoamerica
+AXN Latinoamerica
+Eurochannel
+MundoFox
+Hogar Util
+TNT Series Latinoamerica
+Elgourmet
+Casa Club TV
+TBS America Latina
+Glitz Latinoamerica
+FOX Life
+Distrito Comedia
+Comedy Central Latinoamerica
+Tru TV America Latina
+Efekto TV
+Multimedios Plus
+Lifetime Latinoamerica
+CNN en Español
+El Financiero Bloomberg
+RT en Español
+Euronews en Espanol
+MTV Live Latinoamerica
+MTV Hits Latinoamerica
+VH1 Classic Europe
+VH1 Latino Norte
+Ritmoson
+Concert Channel
+HTV
+Bandamax
+De Pelicula
+De Pelicula Multiplex
+CineLatino
+Golden
+Golden Edge
+Golden Multiplex
+Paramount Channel Latinoamerica
+Sundance Channel Latinoamerica
+TNT America Latina
+CineCanal
+Cinemax Latinoamerica
+SPACE
+AMC
+Studio Universal
+TCM America Latina
+I-Sat
+Film & Arts Latinoamerica
+Film Zone
+Fox 1 Este
+Fox 1 Oeste
+Fox Family
+Fox Comedy
+Fox Cinema
+Fox Action Este
+Fox Action Oeste
+Fox Movies Latinoamerica
+Fox Classics Latinoamerica
+HBO Latinoamerica
+HBO 2 Latinoamerica
+HBO Plus Este
+HBO Plus Oeste
+HBO Family Latinoamerica
+HBO Signature Latinoamerica
+Max UP Latinoamerica
+Max Prime Este
+Max Prime Oeste
+MAX
+Golden Premier 1
+Golden Premier 2
+
+
+

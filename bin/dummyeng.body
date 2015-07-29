@@ -1,0 +1,1812 @@
+
+	<channel id="I12.28457628.microsoft.com">
+		<display-name>News 12 Connecticut</display-name>
+		<display-name>12 News 12 Connecticut</display-name>
+		<display-name>12</display-name>
+		<display-name>Cablecast</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="I12.28457628.microsoft.com">
+		<title lang="en">News 12 Connecticut</title>
+		<desc lang="en">As local as local news gets.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Other</category>
+		<category lang="en">Series</category>
+		<episode-num system="ms_progid">1.SH020238270000</episode-num>
+		<episode-num system="dd_progid">SH02023827.0000</episode-num>
+		<previously-shown />
+		<rating system="VCHIP">
+			<value>TV-Y</value>
+		</rating>
+	</programme>
+	<channel id="I12.28456533.microsoft.com">
+		<display-name>News 12 New Jersey</display-name>
+		<display-name>12 News 12 New Jersey</display-name>
+		<display-name>12</display-name>
+		<display-name>Cablecast</display-name>
+	</channel>
+	<channel id="I12.42874365.microsoft.com">
+		<display-name>News 12 Hudson Valley</display-name>
+		<display-name>12 News 12 Hudson Valley</display-name>
+		<display-name>12</display-name>
+		<display-name>Cablecast</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="I12.28456533.microsoft.com">
+		<title lang="en">News 12 New Jersey</title>
+		<desc lang="en">Around New Jersey Around The Clock.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Other</category>
+		<category lang="en">Series</category>
+		<episode-num system="ms_progid">1.SH019583850000</episode-num>
+		<episode-num system="dd_progid">SH01958385.0000</episode-num>
+		<previously-shown />
+		<rating system="VCHIP">
+			<value>TV-Y</value>
+		</rating>
+	</programme>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="I12.42874365.microsoft.com">
+		<title lang="en">News 12 Hudson Valley</title>
+		<desc lang="en">Exclusive coverage of news, weather, and sports in Rockland and Orange Counties.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Other</category>
+		<category lang="en">Series</category>
+		<episode-num system="ms_progid">1.SH018584610000</episode-num>
+		<episode-num system="dd_progid">SH01858461.0000</episode-num>
+		<previously-shown />
+		<rating system="VCHIP">
+			<value>TV-Y</value>
+		</rating>
+	</programme>
+	<channel id="I12.28455813.microsoft.com">
+		<display-name>News 12 Westchester</display-name>
+		<display-name>12 News 12 Westchester</display-name>
+		<display-name>12</display-name>
+		<display-name>Cablecast</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="I12.28455813.microsoft.com">
+		<title lang="en">News 12 Westchester</title>
+		<desc lang="en">Latest Westchester news, weather, and sports.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Other</category>
+		<category lang="en">Series</category>
+		<episode-num system="ms_progid">1.SH018584060000</episode-num>
+		<episode-num system="dd_progid">SH01858406.0000</episode-num>
+		<previously-shown />
+		<rating system="VCHIP">
+			<value>TV-Y</value>
+		</rating>
+	</programme>
+	<channel id="I12.28459733.microsoft.com">
+		<display-name>News 12 Long Island</display-name>
+		<display-name>12 News 12 Long Island</display-name>
+		<display-name>12</display-name>
+		<display-name>Cablecast</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="I12.28459733.microsoft.com">
+		<title lang="en">News 12 Long Island</title>
+		<desc lang="en">Latest Long Island news, weather, and sports.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Other</category>
+		<category lang="en">Series</category>
+		<episode-num system="ms_progid">1.SH019370960000</episode-num>
+		<episode-num system="dd_progid">SH01937096.0000</episode-num>
+		<previously-shown />
+		<rating system="VCHIP">
+			<value>TV-Y</value>
+		</rating>
+	</programme>
+	<channel id="I12.42874367.microsoft.com">
+		<display-name>News 12 Brooklyn</display-name>
+		<display-name>12 News 12 Brooklyn</display-name>
+		<display-name>12</display-name>
+		<display-name>Cablecast</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="I12.42874367.microsoft.com">
+		<title lang="en">News 12 Brooklyn</title>
+		<desc lang="en">Latest Brooklyn news, weather, and sports.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Other</category>
+		<category lang="en">Series</category>
+		<episode-num system="ms_progid">1.SH015195800000</episode-num>
+		<episode-num system="dd_progid">SH01519580.0000</episode-num>
+		<previously-shown />
+		<rating system="VCHIP">
+			<value>TV-Y</value>
+		</rating>
+	</programme>
+	<channel id="I12.28456274.microsoft.com">
+		<display-name>News 12 Bronx</display-name>
+		<display-name>12 News 12 Bronx</display-name>
+		<display-name>12</display-name>
+		<display-name>Cablecast</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="I12.28456274.microsoft.com">
+		<title lang="en">News 12 The Bronx</title>
+		<desc lang="en">Latest Bronx news, weather, and sports.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Other</category>
+		<category lang="en">Series</category>
+		<episode-num system="ms_progid">1.SH015195880000</episode-num>
+		<episode-num system="dd_progid">SH01519588.0000</episode-num>
+		<previously-shown />
+		<rating system="VCHIP">
+			<value>TV-Y</value>
+		</rating>
+	</programme>
+
+	<channel id="Adult_1.iptvprivateserver.tv">
+		<display-name>Adult 1</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Adult_1.iptvprivateserver.tv">
+		<title lang="en">Adult 1</title>
+		<desc lang="en">Out of sync moaning and groaning</desc>
+		<category lang="en">Adult</category>
+		<previously-shown />
+		<rating system="VCHIP">
+			<value>TV-MA</value>
+		</rating>
+	</programme>
+	<channel id="Adult_2.iptvprivateserver.tv">
+		<display-name>Adult 2</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Adult_2.iptvprivateserver.tv">
+		<title lang="en">Adult 2</title>
+		<desc lang="en">More out of sync moaning and groaning</desc>
+		<category lang="en">Adult</category>
+		<previously-shown />
+		<rating system="VCHIP">
+			<value>TV-MA</value>
+		</rating>
+	</programme>
+	<channel id="Adult_3.iptvprivateserver.tv">
+		<display-name>Adult 3</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Adult_3.iptvprivateserver.tv">
+		<title lang="en">Adult 3</title>
+		<desc lang="en">Yet more out of sync moaning and groaning</desc>
+		<category lang="en">Adult</category>
+		<previously-shown />
+		<rating system="VCHIP">
+			<value>TV-MA</value>
+		</rating>
+	</programme>
+	<channel id="Adult_4.iptvprivateserver.tv">
+		<display-name>Adult 4</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Adult_4.iptvprivateserver.tv">
+		<title lang="en">Adult 4</title>
+		<desc lang="en">If you can read this you haven't gone blind yet</desc>
+		<category lang="en">Adult</category>
+		<previously-shown />
+		<rating system="VCHIP">
+			<value>TV-MA</value>
+		</rating>
+	</programme>
+	<channel id="Adult_5.iptvprivateserver.tv">
+		<display-name>Adult 5</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Adult_5.iptvprivateserver.tv">
+		<title lang="en">Adult 5</title>
+		<desc lang="en">Like Adult 4 but different</desc>
+		<category lang="en">Adult</category>
+		<previously-shown />
+		<rating system="VCHIP">
+			<value>TV-MA</value>
+		</rating>
+	</programme>
+	<channel id="Adult_6.iptvprivateserver.tv">
+		<display-name>Adult 6</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Adult_6.iptvprivateserver.tv">
+		<title lang="en">Adult 6</title>
+		<desc lang="en">More women making their families proud</desc>
+		<category lang="en">Adult</category>
+		<previously-shown />
+		<rating system="VCHIP">
+			<value>TV-MA</value>
+		</rating>
+	</programme>
+	<channel id="Adult_7.iptvprivateserver.tv">
+		<display-name>Adult 7</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Adult_7.iptvprivateserver.tv">
+		<title lang="en">Adult 7</title>
+		<desc lang="en">You are just scrolling through the list, aren't you</desc>
+		<category lang="en">Adult</category>
+		<previously-shown />
+		<rating system="VCHIP">
+			<value>TV-MA</value>
+		</rating>
+	</programme>
+	<channel id="Adult_8.iptvprivateserver.tv">
+		<display-name>Adult 8</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Adult_8.iptvprivateserver.tv">
+		<title lang="en">Adult 8</title>
+		<desc lang="en">8 down 16 to go</desc>
+		<category lang="en">Adult</category>
+		<previously-shown />
+		<rating system="VCHIP">
+			<value>TV-MA</value>
+		</rating>
+	</programme>
+	<channel id="Adult_9.iptvprivateserver.tv">
+		<display-name>Adult 9</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Adult_9.iptvprivateserver.tv">
+		<title lang="en">Adult 9</title>
+		<desc lang="en">Number 9. Well you are half right</desc>
+		<category lang="en">Adult</category>
+		<previously-shown />
+		<rating system="VCHIP">
+			<value>TV-MA</value>
+		</rating>
+	</programme>
+	<channel id="Adult_10.iptvprivateserver.tv">
+		<display-name>Adult 10</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Adult_10.iptvprivateserver.tv">
+		<title lang="en">Adult 10</title>
+		<desc lang="en">I think I recognize her from the grocery store the other day</desc>
+		<category lang="en">Adult</category>
+		<previously-shown />
+		<rating system="VCHIP">
+			<value>TV-MA</value>
+		</rating>
+	</programme>
+	<channel id="Adult_11.iptvprivateserver.tv">
+		<display-name>Adult 11</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Adult_11.iptvprivateserver.tv">
+		<title lang="en">Adult 11</title>
+		<desc lang="en">This one has to be different. Okay maybe not</desc>
+		<category lang="en">Adult</category>
+		<previously-shown />
+		<rating system="VCHIP">
+			<value>TV-MA</value>
+		</rating>
+	</programme>
+	<channel id="Adult_12.iptvprivateserver.tv">
+		<display-name>Adult 12</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Adult_12.iptvprivateserver.tv">
+		<title lang="en">Adult 12</title>
+		<desc lang="en">Starting in the middle are you?</desc>
+		<category lang="en">Adult</category>
+		<previously-shown />
+		<rating system="VCHIP">
+			<value>TV-MA</value>
+		</rating>
+	</programme>
+	<channel id="Adult_13.iptvprivateserver.tv">
+		<display-name>Adult 13</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Adult_13.iptvprivateserver.tv">
+		<title lang="en">Adult 13</title>
+		<desc lang="en">Internet porn. Wow there just isn't enough of that</desc>
+		<category lang="en">Adult</category>
+		<previously-shown />
+		<rating system="VCHIP">
+			<value>TV-MA</value>
+		</rating>
+	</programme>
+	<channel id="Adult_14.iptvprivateserver.tv">
+		<display-name>Adult 14</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Adult_14.iptvprivateserver.tv">
+		<title lang="en">Adult 14</title>
+		<desc lang="en">I remember the VHS days when you would wear out the slow and pause buttons</desc>
+		<category lang="en">Adult</category>
+		<previously-shown />
+		<rating system="VCHIP">
+			<value>TV-MA</value>
+		</rating>
+	</programme>
+	<channel id="Adult_15.iptvprivateserver.tv">
+		<display-name>Adult 15</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Adult_15.iptvprivateserver.tv">
+		<title lang="en">Adult 15</title>
+		<desc lang="en">15, you're a real trooper</desc>
+		<category lang="en">Adult</category>
+		<previously-shown />
+		<rating system="VCHIP">
+			<value>TV-MA</value>
+		</rating>
+	</programme>
+	<channel id="Adult_16.iptvprivateserver.tv">
+		<display-name>Adult 16</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Adult_16.iptvprivateserver.tv">
+		<title lang="en">Adult 16</title>
+		<desc lang="en">My hands are getting tired just typing this, I can just imagine what yours are like</desc>
+		<category lang="en">Adult</category>
+		<previously-shown />
+		<rating system="VCHIP">
+			<value>TV-MA</value>
+		</rating>
+	</programme>
+	<channel id="Adult_17.iptvprivateserver.tv">
+		<display-name>Adult 17</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Adult_17.iptvprivateserver.tv">
+		<title lang="en">Adult 17</title>
+		<desc lang="en">I hope that is a tattoo</desc>
+		<category lang="en">Adult</category>
+		<previously-shown />
+		<rating system="VCHIP">
+			<value>TV-MA</value>
+		</rating>
+	</programme>
+	<channel id="Adult_18.iptvprivateserver.tv">
+		<display-name>Adult 18</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Adult_18.iptvprivateserver.tv">
+		<title lang="en">Adult 18</title>
+		<desc lang="en">How does one end up on Adult 18</desc>
+		<category lang="en">Adult</category>
+		<previously-shown />
+		<rating system="VCHIP">
+			<value>TV-MA</value>
+		</rating>
+	</programme>
+	<channel id="Adult_19.iptvprivateserver.tv">
+		<display-name>Adult 19</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Adult_19.iptvprivateserver.tv">
+		<title lang="en">Adult 19</title>
+		<desc lang="en">19 yeah this one is bound to be different than the other 23</desc>
+		<category lang="en">Adult</category>
+		<previously-shown />
+		<rating system="VCHIP">
+			<value>TV-MA</value>
+		</rating>
+	</programme>
+	<channel id="Adult_20.iptvprivateserver.tv">
+		<display-name>Adult 20</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Adult_20.iptvprivateserver.tv">
+		<title lang="en">Adult 20</title>
+		<desc lang="en">">$@#%$@%@ there I said it</desc>
+		<category lang="en">Adult</category>
+		<previously-shown />
+		<rating system="VCHIP">
+			<value>TV-MA</value>
+		</rating>
+	</programme>
+	<channel id="Adult_21.iptvprivateserver.tv">
+		<display-name>Adult 21</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Adult_21.iptvprivateserver.tv">
+		<title lang="en">Adult 21</title>
+		<desc lang="en">More $@#%$@%@ing</desc>
+		<category lang="en">Adult</category>
+		<previously-shown />
+		<rating system="VCHIP">
+			<value>TV-MA</value>
+		</rating>
+	</programme>
+	<channel id="Adult_22.iptvprivateserver.tv">
+		<display-name>Adult 22</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Adult_22.iptvprivateserver.tv">
+		<title lang="en">Adult 22</title>
+		<desc lang="en">Look Ma, no hands</desc>
+		<category lang="en">Adult</category>
+		<previously-shown />
+		<rating system="VCHIP">
+			<value>TV-MA</value>
+		</rating>
+	</programme>
+	<channel id="Adult_23.iptvprivateserver.tv">
+		<display-name>Adult 23</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Adult_23.iptvprivateserver.tv">
+		<title lang="en">Adult 23</title>
+		<desc lang="en">Ah public fornicators. Thank you</desc>
+		<category lang="en">Adult</category>
+		<previously-shown />
+		<rating system="VCHIP">
+			<value>TV-MA</value>
+		</rating>
+	</programme>
+	<channel id="Adult_24.iptvprivateserver.tv">
+		<display-name>Adult 24</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Adult_24.iptvprivateserver.tv">
+		<title lang="en">Adult 24</title>
+		<desc lang="en">Starting from the bottom?</desc>
+		<category lang="en">Adult</category>
+		<previously-shown />
+		<rating system="VCHIP">
+			<value>TV-MA</value>
+		</rating>
+	</programme>
+	<channel id="Adult_25.iptvprivateserver.tv">
+		<display-name>Venus</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Adult_25.iptvprivateserver.tv">
+		<title lang="en">Venus</title>
+		<desc lang="en">Adult 25</desc>
+		<category lang="en">Adult</category>
+		<previously-shown />
+		<rating system="VCHIP">
+			<value>TV-MA</value>
+		</rating>
+	</programme>
+	<channel id="Adult_26.iptvprivateserver.tv">
+		<display-name>Sextreme</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Adult_26.iptvprivateserver.tv">
+		<title lang="en">Sextreme</title>
+		<desc lang="en">Adult 26</desc>
+		<category lang="en">Adult</category>
+		<previously-shown />
+		<rating system="VCHIP">
+			<value>TV-MA</value>
+		</rating>
+	</programme>
+	<channel id="Adult_27.iptvprivateserver.tv">
+		<display-name>Manhandle XXX</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Adult_27.iptvprivateserver.tv">
+		<title lang="en">Manhandle XXX</title>
+		<desc lang="en">Adult 27</desc>
+		<category lang="en">Adult</category>
+		<previously-shown />
+		<rating system="VCHIP">
+			<value>TV-MA</value>
+		</rating>
+	</programme>
+	<channel id="Adult_28.iptvprivateserver.tv">
+		<display-name>Secrets</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Adult_28.iptvprivateserver.tv">
+		<title lang="en">Secrets</title>
+		<desc lang="en">Adult 28</desc>
+		<category lang="en">Adult</category>
+		<previously-shown />
+		<rating system="VCHIP">
+			<value>TV-MA</value>
+		</rating>
+	</programme>
+	<channel id="Adult_29.iptvprivateserver.tv">
+		<display-name>Playboy TV Latin America</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Adult_29.iptvprivateserver.tv">
+		<title lang="en">Playboy TV Latin America</title>
+		<desc lang="en">Adult 29</desc>
+		<category lang="en">Adult</category>
+		<previously-shown />
+		<rating system="VCHIP">
+			<value>TV-MA</value>
+		</rating>
+	</programme>
+	<channel id="Adult_30.iptvprivateserver.tv">
+		<display-name>Playboy TV</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Adult_30.iptvprivateserver.tv">
+		<title lang="en">Playboy TV</title>
+		<desc lang="en">Adult 30</desc>
+		<category lang="en">Adult</category>
+		<previously-shown />
+		<rating system="VCHIP">
+			<value>TV-MA</value>
+		</rating>
+	</programme>
+	<channel id="Adult_31.iptvprivateserver.tv">
+		<display-name>Real</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Adult_31.iptvprivateserver.tv">
+		<title lang="en">Real</title>
+		<desc lang="en">Adult 31</desc>
+		<category lang="en">Adult</category>
+		<previously-shown />
+		<rating system="VCHIP">
+			<value>TV-MA</value>
+		</rating>
+	</programme>
+		<channel id="Adult_32.iptvprivateserver.tv">
+		<display-name>Juicy</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Adult_32.iptvprivateserver.tv">
+		<title lang="en">Juicy</title>
+		<desc lang="en">Adult 32</desc>
+		<category lang="en">Adult</category>
+		<previously-shown />
+		<rating system="VCHIP">
+			<value>TV-MA</value>
+		</rating>
+	</programme>
+		<channel id="Adult_33.iptvprivateserver.tv">
+		<display-name>Hustler TV USA</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Adult_33.iptvprivateserver.tv">
+		<title lang="en">Hustler TV USA</title>
+		<desc lang="en">Adult 33</desc>
+		<category lang="en">Adult</category>
+		<previously-shown />
+		<rating system="VCHIP">
+			<value>TV-MA</value>
+		</rating>
+	</programme>
+		<channel id="Adult_34.iptvprivateserver.tv">
+		<display-name>Xtsy XXX</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Adult_34.iptvprivateserver.tv">
+		<title lang="en">Xtsy XXX</title>
+		<desc lang="en">Adult 34</desc>
+		<category lang="en">Adult</category>
+		<previously-shown />
+		<rating system="VCHIP">
+			<value>TV-MA</value>
+		</rating>
+	</programme>
+		<channel id="Adult_35.iptvprivateserver.tv">
+		<display-name>Adult 35</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Adult_35.iptvprivateserver.tv">
+		<title lang="en">Adult 35</title>
+		<desc lang="en">Adult 35</desc>
+		<category lang="en">Adult</category>
+		<previously-shown />
+		<rating system="VCHIP">
+			<value>TV-MA</value>
+		</rating>
+	</programme>
+	<channel id="Music_1.iptvprivateserver.tv">
+		<display-name>Music Videos 1</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Music_1.iptvprivateserver.tv">
+		<title lang="en">Vevo Hits HD</title>
+		<desc lang="en">Music Videos 1</desc>
+		<category lang="en">Music</category>
+	</programme>
+	<channel id="Music_2.iptvprivateserver.tv">
+		<display-name>Music Videos 2</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Music_2.iptvprivateserver.tv">
+		<title lang="en">Vevo Flow HD</title>
+		<desc lang="en">Music Videos 2</desc>
+		<category lang="en">Music</category>
+	</programme>
+	<channel id="Music_3.iptvprivateserver.tv">
+		<display-name>Music Videos 3</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Music_3.iptvprivateserver.tv">
+		<title lang="en">Vevo Nashville HD </title>
+		<desc lang="en">Music Videos 3</desc>
+		<category lang="en">Music</category>
+	</programme>
+	<channel id="Music_4.iptvprivateserver.tv">
+		<display-name>Music Videos 4</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Music_4.iptvprivateserver.tv">
+		<title lang="en">BeatZ TV</title>
+		<desc lang="en">Music Videos 4</desc>
+		<category lang="en">Music</category>
+	</programme>
+	<channel id="Music_5.iptvprivateserver.tv">
+		<display-name>Music Videos 5</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Music_5.iptvprivateserver.tv">
+		<title lang="en">1HD Music Television</title>
+		<desc lang="en">Music Videos 5</desc>
+		<category lang="en">Music</category>
+	</programme>
+	<channel id="Music_6.iptvprivateserver.tv">
+		<display-name>Music Videos 6</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Music_6.iptvprivateserver.tv">
+		<title lang="en">MTV Dance</title>
+		<desc lang="en">Music Videos 6</desc>
+		<category lang="en">Music</category>
+	</programme>
+	<channel id="Music_7.iptvprivateserver.tv">
+		<display-name>Music Videos 7</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Music_7.iptvprivateserver.tv">
+		<title lang="en">MTV Hits</title>
+		<desc lang="en">Music Videos 7</desc>
+		<category lang="en">Music</category>
+	</programme>
+	<channel id="Music_8.iptvprivateserver.tv">
+		<display-name>Music Videos 8</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Music_8.iptvprivateserver.tv">
+		<title lang="en">MTV Rocks</title>
+		<desc lang="en">Music Videos 8</desc>
+		<category lang="en">Music</category>
+	</programme>
+	<channel id="Music_9.iptvprivateserver.tv">
+		<display-name>Music Videos 9</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Music_9.iptvprivateserver.tv">
+		<title lang="en">Radio Monte Carlo TV</title>
+		<desc lang="en">Music Videos 9</desc>
+		<category lang="en">Music</category>
+	</programme>
+	<channel id="Music_10.iptvprivateserver.tv">
+		<display-name>Music Videos 10</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Music_10.iptvprivateserver.tv">
+		<title lang="en">Kiss TV</title>
+		<desc lang="en">Music Videos 10</desc>
+		<category lang="en">Music</category>
+	</programme>
+	<channel id="Music_11.iptvprivateserver.tv">
+		<display-name>Music Videos 11</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Music_11.iptvprivateserver.tv">
+		<title lang="en">Amazing TV</title>
+		<desc lang="en">Music Videos 11</desc>
+		<category lang="en">Music</category>
+	</programme>
+	<channel id="Music_12.iptvprivateserver.tv">
+		<display-name>Music Videos 12</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Music_12.iptvprivateserver.tv">
+		<title lang="en">Europa Plus TV</title>
+		<desc lang="en">Music Videos 12</desc>
+		<category lang="en">Music</category>
+	</programme>
+	<channel id="Music_13.iptvprivateserver.tv">
+		<display-name>Music Videos 13</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Music_13.iptvprivateserver.tv">
+		<title lang="en">ClubLand TV</title>
+		<desc lang="en">Music Videos 13</desc>
+		<category lang="en">Music</category>
+	</programme>
+	<channel id="Music_14.iptvprivateserver.tv">
+		<display-name>Music Videos 14</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Music_14.iptvprivateserver.tv">
+		<title lang="en">Now That's What I Call Music TV</title>
+		<desc lang="en">Music Videos 14</desc>
+		<category lang="en">Music</category>
+	</programme>
+	<channel id="Music_15.iptvprivateserver.tv">
+		<display-name>Music Videos 15</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Music_15.iptvprivateserver.tv">
+		<title lang="en">NTV 2 Musique</title>
+		<desc lang="en">Music Videos 15</desc>
+		<category lang="en">Music</category>
+	</programme>
+	<channel id="Music_16.iptvprivateserver.tv">
+		<display-name>Music Videos 16</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Music_16.iptvprivateserver.tv">
+		<title lang="en">One Classic</title>
+		<desc lang="en">Music Videos 16</desc>
+		<category lang="en">Music</category>
+	</programme>
+	<channel id="Music_17.iptvprivateserver.tv">
+		<display-name>Music Videos 17</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Music_17.iptvprivateserver.tv">
+		<title lang="en">TV HD</title>
+		<desc lang="en">Music Videos 17</desc>
+		<category lang="en">Music</category>
+	</programme>
+	<channel id="Music_18.iptvprivateserver.tv">
+		<display-name>Music Videos 18</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Music_18.iptvprivateserver.tv">
+		<title lang="en">Music Box Music Television</title>
+		<desc lang="en">Music Videos 18</desc>
+		<category lang="en">Music</category>
+	</programme>
+	<channel id="Music_19.iptvprivateserver.tv">
+		<display-name>Music Videos 19</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Music_19.iptvprivateserver.tv">
+		<title lang="en">Music Vox TV</title>
+		<desc lang="en">Music Videos 19</desc>
+		<category lang="en">Music</category>
+	</programme>
+	<channel id="Music_20.iptvprivateserver.tv">
+		<display-name>Music Videos 20</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Music_20.iptvprivateserver.tv">
+		<title lang="en">MCM Top</title>
+		<desc lang="en">Music Videos 20</desc>
+		<category lang="en">Music</category>
+	</programme>
+	<channel id="Music_21.iptvprivateserver.tv">
+		<display-name>Music Videos 21</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Music_21.iptvprivateserver.tv">
+		<title lang="en">Polo Party tv</title>
+		<desc lang="en">Music Videos 21</desc>
+		<category lang="en">Music</category>
+	</programme>
+	<channel id="Music_22.iptvprivateserver.tv">
+		<display-name>Music Videos 22</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Music_22.iptvprivateserver.tv">
+		<title lang="en">Music Vox TV - Old S'Cool</title>
+		<desc lang="en">Music Videos 22</desc>
+		<category lang="en">Music</category>
+	</programme>
+	<channel id="Music_23.iptvprivateserver.tv">
+		<display-name>Music Videos 23</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Music_23.iptvprivateserver.tv">
+		<title lang="en">PartyTV eska Go</title>
+		<desc lang="en">Music Videos 23</desc>
+		<category lang="en">Music</category>
+	</programme>
+	<channel id="Music_24.iptvprivateserver.tv">
+		<display-name>Music Videos 24</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Music_24.iptvprivateserver.tv">
+		<title lang="en">RockTV eska Go</title>
+		<desc lang="en">Music Videos 24</desc>
+		<category lang="en">Music</category>
+	</programme>
+	<channel id="Music_25.iptvprivateserver.tv">
+		<display-name>Music Videos 25</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Music_25.iptvprivateserver.tv">
+		<title lang="en">Best MusicTV eska Go</title>
+		<desc lang="en">Music Videos 25</desc>
+		<category lang="en">Music</category>
+	</programme>
+	<channel id="Music_26.iptvprivateserver.tv">
+		<display-name>Music Videos 26</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Music_26.iptvprivateserver.tv">
+		<title lang="en">A-One Hip-Hop Music Channel</title>
+		<desc lang="en">Music Videos 26</desc>
+		<category lang="en">Music</category>
+	</programme>
+	<channel id="Music_27.iptvprivateserver.tv">
+		<display-name>Music Videos 27</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Music_27.iptvprivateserver.tv">
+		<title lang="en">U TV (Romania)</title>
+		<desc lang="en">Music Videos 27</desc>
+		<category lang="en">Music</category>
+	</programme>
+	<channel id="Music_28.iptvprivateserver.tv">
+		<display-name>Music Videos 28</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Music_28.iptvprivateserver.tv">
+		<title lang="en">Formusic.Tv</title>
+		<desc lang="en">Music Videos 28</desc>
+		<category lang="en">Music</category>
+	</programme>
+	<channel id="Music_29.iptvprivateserver.tv">
+		<display-name>Music Videos 29</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Music_29.iptvprivateserver.tv">
+		<title lang="en">AAA Music</title>
+		<desc lang="en">Music Videos 29</desc>
+		<category lang="en">Music</category>
+	</programme>
+	<channel id="Music_30.iptvprivateserver.tv">
+		<display-name>Music Videos 30</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Music_30.iptvprivateserver.tv">
+		<title lang="en">Clubland TV</title>
+		<desc lang="en">Music Videos 30</desc>
+		<category lang="en">Music</category>
+	</programme>
+
+
+
+
+
+
+
+
+	<channel id="Sport_1.iptvprivateserver.tv">
+		<display-name>Sport 1</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Sport_1.iptvprivateserver.tv">
+		<title lang="en">BTN</title>
+		<desc lang="en">Sport 1</desc>
+		<category lang="en">Sports</category>
+	</programme>
+
+	<channel id="Sport_2.iptvprivateserver.tv">
+		<display-name>Sport 2</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Sport_2.iptvprivateserver.tv">
+		<title lang="en">Sportsnet 360 HD (Canada)</title>
+		<desc lang="en">Sport 2</desc>
+		<category lang="en">Sports</category>
+	</programme>
+
+	<channel id="Sport_3.iptvprivateserver.tv">
+		<display-name>Sport 3</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Sport_3.iptvprivateserver.tv">
+		<title lang="en">Pac12 Network Live - Mountain</title>
+		<desc lang="en">Sport 3</desc>
+		<category lang="en">Sports</category>
+	</programme>
+
+	<channel id="Sport_4.iptvprivateserver.tv">
+		<display-name>Sport 4</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Sport_4.iptvprivateserver.tv">
+		<title lang="en">Pac12 Network Live - Bay Area</title>
+		<desc lang="en">Sport 4</desc>
+		<category lang="en">Sports</category>
+	</programme>
+
+	<channel id="Sport_5.iptvprivateserver.tv">
+		<display-name>Sport 5</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Sport_5.iptvprivateserver.tv">
+		<title lang="en">Pac12 Network Live - Oregon</title>
+		<desc lang="en">Sport 5</desc>
+		<category lang="en">Sports</category>
+	</programme>
+
+	<channel id="Sport_6.iptvprivateserver.tv">
+		<display-name>Sport 6</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Sport_6.iptvprivateserver.tv">
+		<title lang="en">Pac12 Network Live - USA</title>
+		<desc lang="en">Sport 6</desc>
+		<category lang="en">Sports</category>
+	</programme>
+
+	<channel id="Sport_7.iptvprivateserver.tv">
+		<display-name>Sport 7</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Sport_7.iptvprivateserver.tv">
+		<title lang="en">NTV Spor (Turkey)</title>
+		<desc lang="en">Sport 7</desc>
+		<category lang="en">Sports</category>
+	</programme>
+
+	<channel id="Sport_8.iptvprivateserver.tv">
+		<display-name>Sport 8</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Sport_8.iptvprivateserver.tv">
+		<title lang="en">Sports TV (Turkey)</title>
+		<desc lang="en">Sport 8</desc>
+		<category lang="en">Sports</category>
+	</programme>
+
+	<channel id="Sport_9.iptvprivateserver.tv">
+		<display-name>Sport 9</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Sport_9.iptvprivateserver.tv">
+		<title lang="en">Boytsovskiy Klub</title>
+		<desc lang="en">Sport 9</desc>
+		<category lang="en">Sports</category>
+	</programme>
+
+	<channel id="Sport_10.iptvprivateserver.tv">
+		<display-name>Sport 10</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Sport_10.iptvprivateserver.tv">
+		<title lang="en">Boets (Russia)</title>
+		<desc lang="en">Sport 10</desc>
+		<category lang="en">Sports</category>
+	</programme>
+
+	<channel id="Sport_11.iptvprivateserver.tv">
+		<display-name>Sport 11</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Sport_11.iptvprivateserver.tv">
+		<title lang="en">TVA Sports 2 - Montreal, Quebec</title>
+		<desc lang="en">Sport 11</desc>
+		<category lang="en">Sports</category>
+	</programme>
+
+	<channel id="Sport_12.iptvprivateserver.tv">
+		<display-name>Sport 12</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Sport_12.iptvprivateserver.tv">
+		<title lang="en">Gol TV (USA)</title>
+		<desc lang="en">Sport 12</desc>
+		<category lang="en">Sports</category>
+	</programme>
+
+	<channel id="Sport_13.iptvprivateserver.tv">
+		<display-name>Sport 13</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Sport_13.iptvprivateserver.tv">
+		<title lang="en">Ten Sports (India)</title>
+		<desc lang="en">Sport 13</desc>
+		<category lang="en">Sports</category>
+	</programme>
+
+	<channel id="Sport_14.iptvprivateserver.tv">
+		<display-name>Sport 14</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Sport_14.iptvprivateserver.tv">
+		<title lang="en">Extreme Sports Channel(Netherlands)</title>
+		<desc lang="en">Sport 14</desc>
+		<category lang="en">Sports</category>
+	</programme>
+
+	<channel id="Sport_15.iptvprivateserver.tv">
+		<display-name>Sport 15</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Sport_15.iptvprivateserver.tv">
+		<title lang="en">Arena (Indonesia)</title>
+		<desc lang="en">Sport 15</desc>
+		<category lang="en">Sports</category>
+	</programme>
+
+	<channel id="Sport_16.iptvprivateserver.tv">
+		<display-name>Sport 16</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Sport_16.iptvprivateserver.tv">
+		<title lang="en">SportsTime TV</title>
+		<desc lang="en">Sport 16</desc>
+		<category lang="en">Sports</category>
+	</programme>
+
+	<channel id="Sport_17.iptvprivateserver.tv">
+		<display-name>Sport 17</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Sport_17.iptvprivateserver.tv">
+		<title lang="en">SportsTime TV</title>
+		<desc lang="en">Sport 17</desc>
+		<category lang="en">Sports</category>
+	</programme>
+
+	<channel id="Sport_18.iptvprivateserver.tv">
+		<display-name>Sport 18</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Sport_18.iptvprivateserver.tv">
+		<title lang="en">Star Sports (India)</title>
+		<desc lang="en">Sport 18</desc>
+		<category lang="en">Sports</category>
+	</programme>
+
+	<channel id="Sport_19.iptvprivateserver.tv">
+		<display-name>Sport 19</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Sport_19.iptvprivateserver.tv">
+		<title lang="en">SportsTime TV</title>
+		<desc lang="en">Sport 19</desc>
+		<category lang="en">Sports</category>
+	</programme>
+
+	<channel id="Sport_20.iptvprivateserver.tv">
+		<display-name>Sport 20</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Sport_20.iptvprivateserver.tv">
+		<title lang="en">Motor/Sport</title>
+		<desc lang="en">Sport 20</desc>
+		<category lang="en">Sports</category>
+	</programme>
+	<channel id="Sport_21.iptvprivateserver.tv">
+		<display-name>Sport 21</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Sport_21.iptvprivateserver.tv">
+		<title lang="en">SportsTime itv</title>
+		<desc lang="en">Sport 21</desc>
+		<category lang="en">Sports</category>
+	</programme>
+	<channel id="Sport_22.iptvprivateserver.tv">
+		<display-name>Sport 22</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Sport_22.iptvprivateserver.tv">
+		<title lang="en">Abu Dhabi 1 Sports</title>
+		<desc lang="en">Sport 22</desc>
+		<category lang="en">Sports</category>
+	</programme>
+	<channel id="Sport_23.iptvprivateserver.tv">
+		<display-name>Sport 23</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Sport_23.iptvprivateserver.tv">
+		<title lang="en">Abu Dhabi 2 Sports</title>
+		<desc lang="en">Sport 23</desc>
+		<category lang="en">Sports</category>
+	</programme>
+	<channel id="Sport_24.iptvprivateserver.tv">
+		<display-name>Sport 24</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Sport_24.iptvprivateserver.tv">
+		<title lang="en">TransVision U SeeTV</title>
+		<desc lang="en">Sport 24</desc>
+		<category lang="en">Sports</category>
+	</programme>
+	<channel id="Sport_25.iptvprivateserver.tv">
+		<display-name>Sport 25</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Sport_25.iptvprivateserver.tv">
+		<title lang="en">NTV Football (Russian)</title>
+		<desc lang="en">Sport 25</desc>
+		<category lang="en">Sports</category>
+	</programme>
+	<channel id="Sport_26.iptvprivateserver.tv">
+		<display-name>Sport 26</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Sport_26.iptvprivateserver.tv">
+		<title lang="en">ex (Russian)</title>
+		<desc lang="en">Sport 26</desc>
+		<category lang="en">Sports</category>
+	</programme>
+	<channel id="Sport_27.iptvprivateserver.tv">
+		<display-name>Sport 27</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Sport_27.iptvprivateserver.tv">
+		<title lang="en">Dubai Racing</title>
+		<desc lang="en">Sport 27</desc>
+		<category lang="en">Sports</category>
+	</programme>
+	<channel id="Sport_28.iptvprivateserver.tv">
+		<display-name>Sport 28</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Sport_28.iptvprivateserver.tv">
+		<title lang="en">ViaSat Sport</title>
+		<desc lang="en">Sport 28</desc>
+		<category lang="en">Sports</category>
+	</programme>
+	<channel id="Sport_29.iptvprivateserver.tv">
+		<display-name>Sport 29</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Sport_29.iptvprivateserver.tv">
+		<title lang="en">Sport 29</title>
+		<desc lang="en">Sport 29</desc>
+		<category lang="en">Sports</category>
+	</programme>
+	<channel id="Sport_30.iptvprivateserver.tv">
+		<display-name>Sport 30</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Sport_30.iptvprivateserver.tv">
+		<title lang="en">Sport 30</title>
+		<desc lang="en">Sport 30</desc>
+		<category lang="en">Sports</category>
+	</programme>
+
+
+
+
+
+
+
+
+	<channel id="FoxSportsAsia_1.iptvprivateserver.tv">
+		<display-name>Fox Sports 1 Asia</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="FoxSportsAsia_1.iptvprivateserver.tv">
+		<title lang="en">Fox Sports 1 Asia</title>
+		<desc lang="en">Fox Sports 1 Asia</desc>
+		<category lang="en">Sports</category>
+		<previously-shown />
+		<rating system="VCHIP">
+			<value>TV-G</value>
+		</rating>
+	</programme>
+	<channel id="FoxSportsAsia_2.iptvprivateserver.tv">
+		<display-name>Fox Sports 2 Asia</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="FoxSportsAsia_2.iptvprivateserver.tv">
+		<title lang="en">Fox Sports 2 Asia</title>
+		<desc lang="en">Fox Sports 2 Asia</desc>
+		<category lang="en">Sports</category>
+		<previously-shown />
+		<rating system="VCHIP">
+			<value>TV-G</value>
+		</rating>
+	</programme>
+	<channel id="FoxSportsAsia_3.iptvprivateserver.tv">
+		<display-name>Fox Sports 3 Asia</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="FoxSportsAsia_3.iptvprivateserver.tv">
+		<title lang="en">Fox Sports 3 Asia</title>
+		<desc lang="en">Fox Sports 3 Asia</desc>
+		<category lang="en">Sports</category>
+		<previously-shown />
+		<rating system="VCHIP">
+			<value>TV-G</value>
+		</rating>
+	</programme>
+	<channel id="Stadium_1.iptvprivateserver.tv">
+		<display-name>Stadium 1</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Stadium_1.iptvprivateserver.tv">
+		<title lang="en">Stadium 1</title>
+		<desc lang="en">Stadium 1</desc>
+		<category lang="en">Sports</category>
+		<previously-shown />
+		<rating system="VCHIP">
+			<value>TV-G</value>
+		</rating>
+	</programme>
+	<channel id="Stadium_2.iptvprivateserver.tv">
+		<display-name>Stadium 2</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Stadium_2.iptvprivateserver.tv">
+		<title lang="en">Stadium 2</title>
+		<desc lang="en">Stadium 2</desc>
+		<category lang="en">Sports</category>
+		<previously-shown />
+		<rating system="VCHIP">
+			<value>TV-G</value>
+		</rating>
+	</programme>
+
+	<channel id="UFC_Network.iptvprivateserver.tv">
+		<display-name>UFC Network</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="UFC_Network.iptvprivateserver.tv">
+		<title lang="en">UFC Network</title>
+		<desc lang="en">Stream from UFC Fight Pass</desc>
+		<category lang="en">Sports</category>
+	</programme>
+
+	<channel id="ABC_News.iptvprivateserver.tv">
+		<display-name>ABC News</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="ABC_News.iptvprivateserver.tv">
+		<title lang="en">ABC News</title>
+		<desc lang="en">Live stream from abcnews.go.com </desc>
+		<category lang="en">News</category>
+	</programme>
+
+	<channel id="UltimatePPV.iptvprivateserver.tv">
+		<display-name>Ultimate Events & Sports</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="UltimatePPV.iptvprivateserver.tv">
+		<title lang="en">Ultimate Events & Sports</title>
+		<desc lang="en">PPV events, as they are made available</desc>
+		<category lang="en">PPV</category>
+	</programme>
+
+	<channel id="F1_LA.iptvprivateserver.tv">
+		<display-name>F1 Latinoamerica</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="F1_LA.iptvprivateserver.tv">
+		<title lang="en">F1 Latinoamerica</title>
+		<desc lang="en">F1 Racing</desc>
+		<category lang="en">Sports</category>
+	</programme>
+
+	<channel id="RT_ESP.iptvprivateserver.tv">
+		<display-name>RT en Español</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="RT_ESP.iptvprivateserver.tv">
+		<title lang="en">RT en Español</title>
+		<desc lang="en">Noticias desde Rusia</desc>
+		<category lang="en">News</category>
+	</programme>
+
+	<channel id="Azteca_Noticias.iptvprivateserver.tv">
+		<display-name>Azteca Noticias</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Azteca_Noticias.iptvprivateserver.tv">
+		<title lang="en">Azteca Noticias</title>
+		<desc lang="en">Noticias desde Azteca</desc>
+		<category lang="en">News</category>
+	</programme>
+
+	<channel id="Euronews_ESP.iptvprivateserver.tv">
+		<display-name>Euronews en Español</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Euronews_ESP.iptvprivateserver.tv">
+		<title lang="en">Euronews en Español</title>
+		<desc lang="en">Noticias desde Europa</desc>
+		<category lang="en">News</category>
+	</programme>
+
+	<channel id="eNCA.iptvprivateserver.tv">
+		<display-name>eNCA</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="eNCA.iptvprivateserver.tv">
+		<title lang="en">eNCA</title>
+		<desc lang="en">News from South Africa</desc>
+		<category lang="en">News</category>
+	</programme>
+
+	<channel id="CNBC_AF.iptvprivateserver.tv">
+		<display-name>CNBC Africa</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="CNBC_AF.iptvprivateserver.tv">
+		<title lang="en">CNBC Africa</title>
+		<desc lang="en">Financial News from CNBC Africa</desc>
+		<category lang="en">Dummy</category>
+	</programme>
+
+	<channel id="IrishTV.iptvprivateserver.tv">
+		<display-name>Irish TV</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="IrishTV.iptvprivateserver.tv">
+		<title lang="en">Irish TV</title>
+		<desc lang="en">IRISHTV.ie connects Irish communities all over the world and bolsters Irish businesses everywhere.</desc>
+		<category lang="en">Dummy</category>
+	</programme>
+
+	<channel id="RegionalMusic.iptvprivateserver.tv">
+		<display-name>Regional Music</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="RegionalMusic.iptvprivateserver.tv">
+		<title lang="en">Regional Music</title>
+		<desc lang="en">La major de Regional</desc>
+		<category lang="en">Dummy</category>
+	</programme>
+
+	<channel id="CB24.iptvprivateserver.tv">
+		<display-name>CB24</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="CB24.iptvprivateserver.tv">
+		<title lang="en">CB24</title>
+		<desc lang="en">CB24 Noticias Centroamérica</desc>
+		<category lang="en">Dummy</category>
+	</programme>
+
+	<channel id="RT Documentary">
+		<display-name>RT Documentary</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="RT Documentary">
+		<title lang="en">RT Documentary</title>
+		<desc lang="en">RT's documentaries go beyond the bare facts, thoroughly investigating the issues and giving the viewer a chance to see below the surface.(n)</desc>
+		<category lang="en">Dummy</category>
+	</programme>
+
+	<channel id="TVE24h.iptvprivateserver.tv">
+		<display-name>TVE 24h</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="TVE24h.iptvprivateserver.tv">
+		<title lang="en">TVE 24h</title>
+		<desc lang="en">TVE 24h</desc>
+		<category lang="en">Dummy</category>
+	</programme>
+
+	<channel id="Dummy_4.iptvprivateserver.tv">
+		<display-name>Dummy 4</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Dummy_4.iptvprivateserver.tv">
+		<title lang="en">Dummy 4</title>
+		<desc lang="en">Dummy 4</desc>
+		<category lang="en">Dummy</category>
+	</programme>
+
+	<channel id="Dummy_5.iptvprivateserver.tv">
+		<display-name>Dummy 5</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Dummy_5.iptvprivateserver.tv">
+		<title lang="en">Dummy 5</title>
+		<desc lang="en">Dummy 5</desc>
+		<category lang="en">Dummy</category>
+	</programme>
+
+
+
+
+
+
+
+	<channel id="Barbados_1.iptvprivateserver.tv">
+		<display-name>Barbados 1</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Barbados_1.iptvprivateserver.tv">
+		<title lang="en">CBC TV 8</title>
+		<desc lang="en">Barbados 1</desc>
+		<category lang="en">Barbados</category>
+	</programme>
+	<channel id="Barbados_2.iptvprivateserver.tv">
+		<display-name>Barbados 2</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Barbados_2.iptvprivateserver.tv">
+		<title lang="en">Barbados 2</title>
+		<desc lang="en">Barbados 2</desc>
+		<category lang="en">Barbados</category>
+	</programme>
+	<channel id="Barbados_3.iptvprivateserver.tv">
+		<display-name>Barbados 3</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Barbados_3.iptvprivateserver.tv">
+		<title lang="en">Barbados 3</title>
+		<desc lang="en">Barbados 3</desc>
+		<category lang="en">Barbados</category>
+	</programme>
+	<channel id="Barbados_4.iptvprivateserver.tv">
+		<display-name>Barbados 4</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Barbados_4.iptvprivateserver.tv">
+		<title lang="en">Barbados 4</title>
+		<desc lang="en">Barbados 4</desc>
+		<category lang="en">Barbados</category>
+	</programme>
+	<channel id="Barbados_5.iptvprivateserver.tv">
+		<display-name>Barbados 5</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Barbados_5.iptvprivateserver.tv">
+		<title lang="en">Barbados 5</title>
+		<desc lang="en">Barbados 5</desc>
+		<category lang="en">Barbados</category>
+	</programme>
+
+
+
+
+
+
+
+	<channel id="Canada_1.iptvprivateserver.tv">
+		<display-name>Canada 1</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Canada_1.iptvprivateserver.tv">
+		<title lang="en">LCN - Le Canal Nouvelles</title>
+		<desc lang="en">Canada 1</desc>
+		<category lang="en">Canada</category>
+	</programme>
+	<channel id="Canada_2.iptvprivateserver.tv">
+		<display-name>Canada 2</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Canada_2.iptvprivateserver.tv">
+		<title lang="en">CTV - Yorkton, Saskatchewan</title>
+		<desc lang="en">Canada 2</desc>
+		<category lang="en">Canada</category>
+	</programme>
+	<channel id="Canada_3.iptvprivateserver.tv">
+		<display-name>Canada 3</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Canada_3.iptvprivateserver.tv">
+		<title lang="en">CTV - Edmonton, Alberta</title>
+		<desc lang="en">Canada 3</desc>
+		<category lang="en">Canada</category>
+	</programme>
+	<channel id="Canada_4.iptvprivateserver.tv">
+		<display-name>Canada 4</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Canada_4.iptvprivateserver.tv">
+		<title lang="en">CTV - Lethbridge, Alberta</title>
+		<desc lang="en">Canada 4</desc>
+		<category lang="en">Canada</category>
+	</programme>
+	<channel id="Canada_5.iptvprivateserver.tv">
+		<display-name>Canada 5</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Canada_5.iptvprivateserver.tv">
+		<title lang="en">CTV - Regina, Saskatchewan</title>
+		<desc lang="en">Canada 5</desc>
+		<category lang="en">Canada</category>
+	</programme>
+	<channel id="Canada_6.iptvprivateserver.tv">
+		<display-name>Canada 6</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Canada_6.iptvprivateserver.tv">
+		<title lang="en">TVA - Montreal, Quebec</title>
+		<desc lang="en">Canada 6</desc>
+		<category lang="en">Canada</category>
+	</programme>
+	<channel id="Canada_7.iptvprivateserver.tv">
+		<display-name>Canada 7</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Canada_7.iptvprivateserver.tv">
+		<title lang="en">V - Montreal, Quebec</title>
+		<desc lang="en">Canada 7</desc>
+		<category lang="en">Canada</category>
+	</programme>
+	<channel id="Canada_8.iptvprivateserver.tv">
+		<display-name>Canada 8</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Canada_8.iptvprivateserver.tv">
+		<title lang="en">The Weather Network HD</title>
+		<desc lang="en">Canada 8</desc>
+		<category lang="en">Canada</category>
+	</programme>
+	<channel id="Canada_9.iptvprivateserver.tv">
+		<display-name>Canada 9</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Canada_9.iptvprivateserver.tv">
+		<title lang="en">C Television (Trinidad)</title>
+		<desc lang="en">Canada 9</desc>
+		<category lang="en">Canada</category>
+	</programme>
+	<channel id="Canada_10.iptvprivateserver.tv">
+		<display-name>Canada 10</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Canada_10.iptvprivateserver.tv">
+		<title lang="en">CPAC</title>
+		<desc lang="en">Canada 10</desc>
+		<category lang="en">Canada</category>
+	</programme>
+	<channel id="Canada_11.iptvprivateserver.tv">
+		<display-name>Canada 11</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Canada_11.iptvprivateserver.tv">
+		<title lang="en">Canada 11</title>
+		<desc lang="en">Canada 11</desc>
+		<category lang="en">Canada</category>
+	</programme>
+	<channel id="Canada_12.iptvprivateserver.tv">
+		<display-name>Canada 12</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Canada_12.iptvprivateserver.tv">
+		<title lang="en">Canada 12</title>
+		<desc lang="en">Canada 12</desc>
+		<category lang="en">Canada</category>
+	</programme>
+	<channel id="Canada_13.iptvprivateserver.tv">
+		<display-name>Canada 13</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Canada_13.iptvprivateserver.tv">
+		<title lang="en">Canada 13</title>
+		<desc lang="en">Canada 13</desc>
+		<category lang="en">Canada</category>
+	</programme>
+	<channel id="Canada_14.iptvprivateserver.tv">
+		<display-name>Canada 14</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Canada_14.iptvprivateserver.tv">
+		<title lang="en">Canada 14</title>
+		<desc lang="en">Canada 14</desc>
+		<category lang="en">Canada</category>
+	</programme>
+	<channel id="Canada_15.iptvprivateserver.tv">
+		<display-name>Canada 15</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Canada_15.iptvprivateserver.tv">
+		<title lang="en">Canada 15</title>
+		<desc lang="en">Canada 15</desc>
+		<category lang="en">Canada</category>
+	</programme>
+	<channel id="Canada_16.iptvprivateserver.tv">
+		<display-name>Canada 16</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Canada_16.iptvprivateserver.tv">
+		<title lang="en">Canada 16</title>
+		<desc lang="en">Canada 16</desc>
+		<category lang="en">Canada</category>
+	</programme>
+	<channel id="Canada_17.iptvprivateserver.tv">
+		<display-name>Canada 17</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Canada_17.iptvprivateserver.tv">
+		<title lang="en">Canada 17</title>
+		<desc lang="en">Canada 17</desc>
+		<category lang="en">Canada</category>
+	</programme>
+	<channel id="Canada_18.iptvprivateserver.tv">
+		<display-name>Canada 18</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Canada_18.iptvprivateserver.tv">
+		<title lang="en">Canada 18</title>
+		<desc lang="en">Canada 18</desc>
+		<category lang="en">Canada</category>
+	</programme>
+	<channel id="Canada_19.iptvprivateserver.tv">
+		<display-name>Canada 19</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Canada_19.iptvprivateserver.tv">
+		<title lang="en">Canada 19</title>
+		<desc lang="en">Canada 19</desc>
+		<category lang="en">Canada</category>
+	</programme>
+	<channel id="Canada_20.iptvprivateserver.tv">
+		<display-name>Canada 20</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Canada_20.iptvprivateserver.tv">
+		<title lang="en">Canada 20</title>
+		<desc lang="en">Canada 20</desc>
+		<category lang="en">Canada</category>
+	</programme>
+	<channel id="Canada_21.iptvprivateserver.tv">
+		<display-name>Canada 21</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Canada_21.iptvprivateserver.tv">
+		<title lang="en">Canada 21</title>
+		<desc lang="en">Canada 21</desc>
+		<category lang="en">Canada</category>
+	</programme>
+	<channel id="Canada_22.iptvprivateserver.tv">
+		<display-name>Canada 22</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Canada_22.iptvprivateserver.tv">
+		<title lang="en">Canada 22</title>
+		<desc lang="en">Canada 22</desc>
+		<category lang="en">Canada</category>
+	</programme>
+	<channel id="Canada_23.iptvprivateserver.tv">
+		<display-name>Canada 23</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Canada_23.iptvprivateserver.tv">
+		<title lang="en">Canada 23</title>
+		<desc lang="en">Canada 23</desc>
+		<category lang="en">Canada</category>
+	</programme>
+	<channel id="Canada_24.iptvprivateserver.tv">
+		<display-name>Canada 24</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Canada_24.iptvprivateserver.tv">
+		<title lang="en">Canada 24</title>
+		<desc lang="en">Canada 24</desc>
+		<category lang="en">Canada</category>
+	</programme>
+	<channel id="Canada_25.iptvprivateserver.tv">
+		<display-name>Canada 25</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Canada_25.iptvprivateserver.tv">
+		<title lang="en">Canada 25</title>
+		<desc lang="en">Canada 25</desc>
+		<category lang="en">Canada</category>
+	</programme>
+	<channel id="Canada_26.iptvprivateserver.tv">
+		<display-name>Canada 26</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Canada_26.iptvprivateserver.tv">
+		<title lang="en">Canada 26</title>
+		<desc lang="en">Canada 26</desc>
+		<category lang="en">Canada</category>
+	</programme>
+	<channel id="Canada_27.iptvprivateserver.tv">
+		<display-name>Canada 27</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Canada_27.iptvprivateserver.tv">
+		<title lang="en">Canada 27</title>
+		<desc lang="en">Canada 27</desc>
+		<category lang="en">Canada</category>
+	</programme>
+	<channel id="Canada_28.iptvprivateserver.tv">
+		<display-name>Canada 28</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Canada_28.iptvprivateserver.tv">
+		<title lang="en">Canada 28</title>
+		<desc lang="en">Canada 28</desc>
+		<category lang="en">Canada</category>
+	</programme>
+	<channel id="Canada_29.iptvprivateserver.tv">
+		<display-name>Canada 29</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Canada_29.iptvprivateserver.tv">
+		<title lang="en">Canada 29</title>
+		<desc lang="en">Canada 29</desc>
+		<category lang="en">Canada</category>
+	</programme>
+	<channel id="Canada_30.iptvprivateserver.tv">
+		<display-name>Canada 30</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Canada_30.iptvprivateserver.tv">
+		<title lang="en">Canada 30</title>
+		<desc lang="en">Canada 30</desc>
+		<category lang="en">Canada</category>
+	</programme>
+
+
+
+
+
+
+
+
+	<channel id="Ireland_1.iptvprivateserver.tv">
+		<display-name>Ireland 1</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Ireland_1.iptvprivateserver.tv">
+		<title lang="en">Ireland 1</title>
+		<desc lang="en">Ireland 1</desc>
+		<category lang="en">Ireland</category>
+		<previously-shown />
+		<rating system="VCHIP">
+			<value>TV-G</value>
+		</rating>
+	</programme>
+	<channel id="Ireland_2.iptvprivateserver.tv">
+		<display-name>Ireland 2</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Ireland_2.iptvprivateserver.tv">
+		<title lang="en">Ireland 2</title>
+		<desc lang="en">Ireland 2</desc>
+		<category lang="en">Ireland</category>
+		<previously-shown />
+		<rating system="VCHIP">
+			<value>TV-G</value>
+		</rating>
+	</programme>
+	<channel id="Ireland_3.iptvprivateserver.tv">
+		<display-name>Ireland 3</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Ireland_3.iptvprivateserver.tv">
+		<title lang="en">Ireland 3</title>
+		<desc lang="en">Ireland 3</desc>
+		<category lang="en">Ireland</category>
+		<previously-shown />
+		<rating system="VCHIP">
+			<value>TV-G</value>
+		</rating>
+	</programme>
+	<channel id="Ireland_4.iptvprivateserver.tv">
+		<display-name>Ireland 4</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Ireland_4.iptvprivateserver.tv">
+		<title lang="en">Ireland 4</title>
+		<desc lang="en">Ireland 4</desc>
+		<category lang="en">Ireland</category>
+		<previously-shown />
+		<rating system="VCHIP">
+			<value>TV-G</value>
+		</rating>
+	</programme>
+	<channel id="Ireland_5.iptvprivateserver.tv">
+		<display-name>Ireland 5</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Ireland_5.iptvprivateserver.tv">
+		<title lang="en">Ireland 5</title>
+		<desc lang="en">Ireland 5</desc>
+		<category lang="en">Ireland</category>
+		<previously-shown />
+		<rating system="VCHIP">
+			<value>TV-G</value>
+		</rating>
+	</programme>
+	<channel id="Ireland_6.iptvprivateserver.tv">
+		<display-name>Ireland 6</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Ireland_6.iptvprivateserver.tv">
+		<title lang="en">Ireland 6</title>
+		<desc lang="en">Ireland 6</desc>
+		<category lang="en">Ireland</category>
+		<previously-shown />
+		<rating system="VCHIP">
+			<value>TV-G</value>
+		</rating>
+	</programme>
+	<channel id="Ireland_7.iptvprivateserver.tv">
+		<display-name>Ireland 7</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Ireland_7.iptvprivateserver.tv">
+		<title lang="en">Ireland 7</title>
+		<desc lang="en">Ireland 7</desc>
+		<category lang="en">Ireland</category>
+		<previously-shown />
+		<rating system="VCHIP">
+			<value>TV-G</value>
+		</rating>
+	</programme>
+	<channel id="Ireland_8.iptvprivateserver.tv">
+		<display-name>Ireland 8</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Ireland_8.iptvprivateserver.tv">
+		<title lang="en">Ireland 8</title>
+		<desc lang="en">Ireland 8</desc>
+		<category lang="en">Ireland</category>
+		<previously-shown />
+		<rating system="VCHIP">
+			<value>TV-G</value>
+		</rating>
+	</programme>
+	<channel id="Ireland_9.iptvprivateserver.tv">
+		<display-name>Ireland 9</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Ireland_9.iptvprivateserver.tv">
+		<title lang="en">Ireland 9</title>
+		<desc lang="en">Ireland 9</desc>
+		<category lang="en">Ireland</category>
+		<previously-shown />
+		<rating system="VCHIP">
+			<value>TV-G</value>
+		</rating>
+	</programme>
+	<channel id="Ireland_10.iptvprivateserver.tv">
+		<display-name>Ireland 10</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Ireland_10.iptvprivateserver.tv">
+		<title lang="en">Ireland 10</title>
+		<desc lang="en">Ireland 10</desc>
+		<category lang="en">Ireland</category>
+		<previously-shown />
+		<rating system="VCHIP">
+			<value>TV-G</value>
+		</rating>
+	</programme>
+
+
+
+
+
+
+
+
+	<channel id="Jamaica_1.iptvprivateserver.tv">
+		<display-name>Jamaica 1</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Jamaica_1.iptvprivateserver.tv">
+		<title lang="en">Real Jamaican Television</title>
+		<desc lang="en">Jamaica 1</desc>
+		<category lang="en">Jamaica</category>
+		<previously-shown />
+		<rating system="VCHIP">
+			<value>TV-G</value>
+		</rating>
+	</programme>
+	<channel id="Jamaica_2.iptvprivateserver.tv">
+		<display-name>Jamaica 2</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Jamaica_2.iptvprivateserver.tv">
+		<title lang="en">Jamaica Educational TV</title>
+		<desc lang="en">Jamaica 2</desc>
+		<category lang="en">Jamaica</category>
+		<previously-shown />
+		<rating system="VCHIP">
+			<value>TV-G</value>
+		</rating>
+	</programme>
+	<channel id="Jamaica_3.iptvprivateserver.tv">
+		<display-name>Jamaica 3</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Jamaica_3.iptvprivateserver.tv">
+		<title lang="en">Jamaica 3</title>
+		<desc lang="en">Jamaica 3</desc>
+		<category lang="en">Jamaica</category>
+		<previously-shown />
+		<rating system="VCHIP">
+			<value>TV-G</value>
+		</rating>
+	</programme>
+	<channel id="Jamaica_4.iptvprivateserver.tv">
+		<display-name>Jamaica 4</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Jamaica_4.iptvprivateserver.tv">
+		<title lang="en">Jamaica 4</title>
+		<desc lang="en">Jamaica 4</desc>
+		<category lang="en">Jamaica</category>
+		<previously-shown />
+		<rating system="VCHIP">
+			<value>TV-G</value>
+		</rating>
+	</programme>
+	<channel id="Jamaica_5.iptvprivateserver.tv">
+		<display-name>Jamaica 5</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Jamaica_5.iptvprivateserver.tv">
+		<title lang="en">Jamaica 5</title>
+		<desc lang="en">Jamaica 5</desc>
+		<category lang="en">Jamaica</category>
+		<previously-shown />
+		<rating system="VCHIP">
+			<value>TV-G</value>
+		</rating>
+	</programme>
+
+
+
+
+
+
+	<channel id="Trinidad_1.iptvprivateserver.tv">
+		<display-name>Trinidad and Tobago 1</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Trinidad_1.iptvprivateserver.tv">
+		<title lang="en">C Television</title>
+		<desc lang="en">Trinidad and Tobago 1</desc>
+		<category lang="en">Trinidad and Tobago</category>
+	</programme>
+	<channel id="Trinidad_2.iptvprivateserver.tv">
+		<display-name>Trinidad and Tobago 2</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Trinidad_2.iptvprivateserver.tv">
+		<title lang="en">Trinidad and Tobago 2</title>
+		<desc lang="en">Trinidad and Tobago 2</desc>
+		<category lang="en">Trinidad and Tobago</category>
+	</programme>
+	<channel id="Trinidad_3.iptvprivateserver.tv">
+		<display-name>Trinidad and Tobago 3</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Trinidad_3.iptvprivateserver.tv">
+		<title lang="en">Trinidad and Tobago 3</title>
+		<desc lang="en">Trinidad and Tobago 3</desc>
+		<category lang="en">Trinidad and Tobago</category>
+	</programme>
+	<channel id="Trinidad_4.iptvprivateserver.tv">
+		<display-name>Trinidad and Tobago 4</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Trinidad_4.iptvprivateserver.tv">
+		<title lang="en">Trinidad and Tobago 4</title>
+		<desc lang="en">Trinidad and Tobago 4</desc>
+		<category lang="en">Trinidad and Tobago</category>
+	</programme>
+	<channel id="Trinidad_5.iptvprivateserver.tv">
+		<display-name>Trinidad and Tobago 5</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Trinidad_5.iptvprivateserver.tv">
+		<title lang="en">Trinidad and Tobago 5</title>
+		<desc lang="en">Trinidad and Tobago 5</desc>
+		<category lang="en">Trinidad and Tobago</category>
+	</programme>
+
+

@@ -1,0 +1,10 @@
+xmltv_time_correct is a small program that allows to change the start and stop times for certain channels in a xmltv file.
+
+How to use :
+
+1. edit xmltv_time_correct.bat
+	It contains text lines how to do that.
+2. edit chans2correct.xml
+	It contains text lines how to do that.
+3. run  xmltv_time_correct.bat
+
